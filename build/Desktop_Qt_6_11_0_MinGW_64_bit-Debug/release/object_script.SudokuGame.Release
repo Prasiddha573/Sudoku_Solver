@@ -1,0 +1,12 @@
+release/gamescreen.o
+release/homescreen.o
+release/main.o
+release/mainwindow.o
+release/sudokuboard.o
+release/sudokugame.o
+release/sudokusolver.o
+release/moc_gamescreen.o
+release/moc_homescreen.o
+release/moc_mainwindow.o
+release/moc_sudokuboard.o
+release/moc_sudokusolver.o

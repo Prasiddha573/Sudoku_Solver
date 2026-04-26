@@ -1,0 +1,12 @@
+debug/gamescreen.o
+debug/homescreen.o
+debug/main.o
+debug/mainwindow.o
+debug/sudokuboard.o
+debug/sudokugame.o
+debug/sudokusolver.o
+debug/moc_gamescreen.o
+debug/moc_homescreen.o
+debug/moc_mainwindow.o
+debug/moc_sudokuboard.o
+debug/moc_sudokusolver.o
